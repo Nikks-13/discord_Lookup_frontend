@@ -7,8 +7,8 @@ Introducing Discord Lookup App, a simple yet powerful tool that lets you delve i
 ## Screenshots
 
 
-![App Screenshot]([https://github.com/Nikks-13/ToDo-App/blob/main/screenshots/2.png?raw=true](https://raw.githubusercontent.com/Nikks-13/discord_Lookup_frontend/main/screenshots/1.png))
-![App Screenshot]([https://raw.githubusercontent.com/Nikks-13/ToDo-App/main/screenshots/1.png](https://raw.githubusercontent.com/Nikks-13/discord_Lookup_frontend/main/screenshots/2.png))
+![App Screenshot](https://raw.githubusercontent.com/Nikks-13/discord_Lookup_frontend/main/screenshots/1.png)
+![App Screenshot](https://raw.githubusercontent.com/Nikks-13/discord_Lookup_frontend/main/screenshots/2.png)
 
 
 # Getting Started with Create React App
